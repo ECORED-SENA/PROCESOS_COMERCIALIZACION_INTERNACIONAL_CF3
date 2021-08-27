@@ -177,6 +177,7 @@
       h2 1.4 Detalles sobre el estudio de mercado
     .row.align-items-center.mb-5
       .col-lg-6
+        p Luego de seleccionar el sector y clasificar arancelariamente, dependiendo del país al cual se está dirigiendo el estudio, usted debe describir el sector, es decir, analizarlo en el ámbito mundial y local, incluyendo hábitos de consumo, participación en el mercado y empresas que participan en la cadena logística, entre otros.
         p Al verificar lo anteriormente expuesto, se debe analizar la producción del país importador junto con las exportaciones de los últimos cinco (5) años y determinar el comportamiento de la balanza comercial, para conocer si esa balanza es deficitaria o superavitaria.
         p Al tener esta información, se puede proceder a analizar los hábitos y tendencias de consumo y el acceso al mercado, es decir, las medidas arancelarias y no arancelarias convenidas.
         p Es importante conocer los canales de comercialización del producto en el país, así como las marcas más reconocidas, con la lista de precios, para entender el rango del costo de los productos.

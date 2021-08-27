@@ -56,7 +56,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Barreras arancelarias',
+        titulo: 'Barreras a mercados internacionales',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -77,26 +77,32 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Derechos de aduana',
+        titulo: 'Arancel de aduanas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Sistema armonizado',
+            titulo: 'Derechos de aduana',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Historia del arancel de aduanas',
+            titulo: 'Sistema armonizado',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: '¿Por qué debo tener una partida arancelaria?',
+            titulo: 'Historia del arancel de aduanas',
             hash: 't_3_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.4',
+            titulo: '¿Por qué debo tener una partida arancelaria?',
+            hash: 't_3_4',
           },
         ],
       },
@@ -136,12 +142,6 @@ export default {
     ],
   },
   referencias: [
-    {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
-    },
     {
       referencia:
         'Cerviño, J. (2014). Marketing Internacional, Nuevas perspectivas para un mercado globalizado. Editorial Grupo Anaya.',
@@ -285,7 +285,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional - Santander',

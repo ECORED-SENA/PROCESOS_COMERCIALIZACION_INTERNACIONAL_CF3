@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Derechos de aduana
+      h1 Arancel de aduanas
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Barreras arancelarias
+      h1 Barreras a mercados internacionales
     p Las barreras son obstáculos o divisiones, fijas o móviles, que impiden el paso de un lugar a otro.
     separador.mb-5
     #t_2_1
