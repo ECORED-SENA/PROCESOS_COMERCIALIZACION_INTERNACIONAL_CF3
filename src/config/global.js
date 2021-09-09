@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Elección del destino de exportación',
     descripcionCurso:
-      'La investigación es el proceso mediante el cual, a partir de consultas y experimentos, se da solución a un problema o interrogante y permite obtener nuevos conocimientos.</br></br>Después de haber realizado la selección de la oferta exportable, es necesario conocer acerca de nuestro mercado potencial y objetivo, conocer sus costumbres, características geográficas, demográficas, su conducta y forma de pensar.</br></br>Así mismo, es indispensable identificar la subpartida arancelaria que identifica el producto que se desea exportar, por ende, el pago de aranceles y el cumplimiento de requerimientos específicos de cada clasificación.</br></br>Este componente formativo brinda las herramientas necesarias para llevar la investigación de mercados que permitirá desarrollar de manera exitosa la comercialización internacional.',
+      'La investigación es el proceso mediante el cual, a partir de consultas y experimentos, se da solución a un problema o interrogante y permite obtener nuevos conocimientos.</br></br>Después de haber realizado la selección de la oferta exportable, es necesario conocer acerca de nuestro mercado potencial y objetivo, conocer sus costumbres, características geográficas, demográficas, su conducta y forma de pensar.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },

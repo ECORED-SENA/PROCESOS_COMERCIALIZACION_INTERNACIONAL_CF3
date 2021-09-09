@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 3
       h1 Arancel de aduanas
-    figure.mb-5
+    figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador.mb-5
@@ -48,7 +48,7 @@
             p.text-regular La clasificación, no obstante, puede llevarse a un desglose de hasta 10 dígitos. Los cuatro últimos son de carácter nacional.<br><br>
             p.text-regular La nomenclatura arancelaria constituye una estructura legal y lógica que garantiza uniformidad en su aplicación en cualquier parte del mundo.
             i.fas.fa-quote-right.d-flex.justify-content-end
-    h3.text-center Nomenclatura arancelaria
+    h2.text-center.mb-4 Nomenclatura arancelaria
     figure(data-aos="fade-right").mb-5
       img(src='@/assets/curso/img21.svg' ,alt='Texto que describa la imagen').m-auto
       figcaption Fuente: LEGISCOMEX (s.f.)

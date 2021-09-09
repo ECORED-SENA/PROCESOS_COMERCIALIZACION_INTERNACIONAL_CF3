@@ -8,7 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
-    .h4.mb-5.text-center ¿Cómo elegir el destino para exportar?
+    p La investigación es el proceso mediante el cual, a partir de consultas y experimentos, se da solución a un problema o interrogante y permite obtener nuevos conocimientos.
+    p Después de haber realizado la selección de la oferta exportable, es necesario conocer acerca de nuestro mercado potencial y objetivo, conocer sus costumbres, características geográficas, demográficas, su conducta y forma de pensar.
+    p Así mismo, es indispensable identificar la subpartida arancelaria que identifica el producto que se desea exportar, por ende, el pago de aranceles y el cumplimiento de requerimientos específicos de cada clasificación.
+    p.mb-5 Este componente formativo brinda las herramientas necesarias para llevar la investigación de mercados que permitirá desarrollar de manera exitosa la comercialización internacional.
+    .h2.mb-5.text-center ¿Cómo elegir el destino para exportar?
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -17,7 +21,7 @@
     p.mb-5 Existen diferentes tipos de exportaciones, estas se dividen según tiempo y envío, y se pueden evidenciar en el siguiente mapa conceptual:
     .row.p-5.bg-color1
       .col-12
-        h3.mb-5.text-center TIPOS DE EXPORTACIÓN
+        h2.mb-5.text-center Tipos de exportación
         figure.mb-5(data-aos="fade-left")
           img(src='@/assets/curso/img1.svg', alt='Texto que describa la imagen').m-auto
     p.mb-5 Según el tiempo:
@@ -27,7 +31,7 @@
           .col-6
             figure
               img(src='@/assets/curso/img3.svg', alt='Texto que describa la imagen')
-        h2.text-center EXPORTACIÓN<br>TEMPORAL:
+        h2.text-center Exportación<br>temporal
         p En este tipo de exportación, la mercancía es enviada al mercado internacional mediante acuerdos que establezcan que las mismas permanecerán en este territorio por un tiempo estipulado.
         p Luego de haber transcurrido el tiempo acordado, este producto regresará al mercado donde ha sido nacionalizado.
       .col-md.tarjeta.color-acento-botones.p-5
@@ -35,7 +39,7 @@
           .col-6
             figure
               img(src='@/assets/curso/img4.svg', alt='Texto que describa la imagen')
-        h2.text-center.text-white EXPORTACIÓN<br>DEFINITIVA:
+        h2.text-center.text-white Exportación<br>definitiva
         p.text-white En este tipo de exportación, las mercancías salen del territorio nacional con el fin de ser consumidas o usadas en el exterior.
     p.mb-5 Según el envío:
     .row
