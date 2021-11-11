@@ -44,8 +44,7 @@
               img(src='@/assets/curso/img12.svg', alt='Texto que describa la imagen')
           .bloque-texto-f__comillas
           p.text-regular.bloque-texto-f__texto Principales competidores, distribuidores, importadores, precios, márgenes comerciales, tendencias, cultura e idioma.
-    p Teniendo en cuenta lo anterior, se hace necesario analizar las barreras que se pueden presentar en el proceso de comercialización internacional de los bienes y servicios.
-    separador.mb-5
+    p.mb-5 Teniendo en cuenta lo anterior, se hace necesario analizar las barreras que se pueden presentar en el proceso de comercialización internacional de los bienes y servicios.
     #t_1_1
     .titulo-segundo
       h2 1.1 Etapas en la selección de mercados
@@ -130,7 +129,7 @@
         figure(data-aos="fade-left")
           img(src='@/assets/curso/img14.svg',style="width: 550px" ,alt='Texto que describa la imagen').m-auto
     p.mb-5 Una vez realizada la preselección del mercado para la comercialización internacional, se continúa con el estudio de mercados y la localización de la demanda.
-    .row.mb-5.justify-content-center
+    .row.justify-content-center
       .col-lg-10
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
@@ -154,7 +153,7 @@
     .titulo-segundo
       h2 1.3 ¿De dónde se saca la información?
     p.mb-5 Se puede obtener de fuentes oficiales como los ministerios de comercio, centros de estadística y las entidades de promoción. Ejemplo: Procolombia.
-    .row.mb-5.justify-content-center
+    .row.justify-content-center
       .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/img4.png' ,alt='Texto que describa la imagen').m-auto

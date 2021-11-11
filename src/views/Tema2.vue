@@ -7,8 +7,7 @@
       .titulo-principal__numero
         span 2
       h1 Barreras a mercados internacionales
-    p Las barreras son obstáculos o divisiones, fijas o móviles, que impiden el paso de un lugar a otro.
-    separador.mb-5
+    p.mb-5 Las barreras son obstáculos o divisiones, fijas o móviles, que impiden el paso de un lugar a otro.
     #t_2_1
     .titulo-segundo
       h2 2.1 Barreras arancelarias

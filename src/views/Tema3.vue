@@ -7,10 +7,9 @@
       .titulo-principal__numero
         span 3
       h1 Arancel de aduanas
-    figure
+    figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    separador.mb-5
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rfe70yH_F2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_3_1
     .titulo-segundo
       h2 3.1 Derechos de aduana

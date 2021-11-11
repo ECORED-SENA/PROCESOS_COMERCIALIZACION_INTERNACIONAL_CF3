@@ -15,7 +15,7 @@
     .h2.mb-5.text-center ¿Cómo elegir el destino para exportar?
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VkuYGyRULKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p Antes de conocer los factores para evaluar el destino de comercialización internacional de los bienes y servicios elegidos por cada empresa, es importante hablar de la muy nombrada “exportación”. 
     p La exportación, consiste en el proceso de vender bienes y servicios en mercados exteriores, es decir, es la operación mediante la cual un producto o mercancía se envía fuera del territorio nacional.
     p.mb-5 Existen diferentes tipos de exportaciones, estas se dividen según tiempo y envío, y se pueden evidenciar en el siguiente mapa conceptual:
